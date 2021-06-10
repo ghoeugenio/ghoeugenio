@@ -8,4 +8,4 @@ Desenvolvedor Frontend
 
 Baiano, graduando em Engenharia da Computação - UFBA, estagiário LubyLabs, apaixonado pelo Frontend, entusiasta do Backend, Designer questionável e viciado em programar.
 
-Estudo e exercito React, React-native e NodeJS.
+Estudo e exercito React, React-Native e AdonisJS.
