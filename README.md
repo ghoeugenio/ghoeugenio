@@ -6,6 +6,4 @@ Desenvolvedor Frontend
 [![Gmail Badge](https://img.shields.io/badge/-ghoeugenio@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghoeugenio@gmail.com)](mailto:ghoeugenio@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-guga.js-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guga.js/)](https://www.instagram.com/guga.js/)
 
-Baiano, graduando em Engenharia da Computação - UFBA, dev Luby, apaixonado pelo Frontend, entusiasta do Backend, Designer questionável e viciado em programar.
-
-Estudo e exercito React, React-Native e AdonisJS.
+Dev Luby Software 
